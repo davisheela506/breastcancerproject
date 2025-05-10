@@ -1,6 +1,6 @@
-#Smart Bio-Reactor Monitoring Platform Using Big Data and IoT
+Smart Bio-Reactor Monitoring Platform Using Big Data and IoT
 
-This is the project of my course Big data Techonlogies for M1 at CNAM, which presents a real-time monitoring platform for bio-reactors, utilizing IoT sensors and big data technologies to track and optimize crucial environmental parameters. It aims to enable early anomaly detection and prediction to enhance bio-reactor efficiency.
+  This is the project of my course Big data Techonlogies for M1 at CNAM, which presents a real-time monitoring platform for bio-reactors, utilizing IoT sensors and big data technologies to track and optimize crucial environmental parameters. It aims to enable early anomaly detection and prediction to enhance bio-reactor efficiency.
 
  Here are few objectives
 
